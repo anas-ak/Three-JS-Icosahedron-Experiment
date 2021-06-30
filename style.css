@@ -1,0 +1,9 @@
+html, body {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#8b9da9, #fff6e4);
+}
+
+canvas {
+    display: block;
+}
